@@ -2,9 +2,9 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Kingsmai?style=social)![GitHub Sponsors](https://img.shields.io/github/sponsors/Kingsmai?style=social)![GitHub User's stars](https://img.shields.io/github/stars/Kingsmai?style=social)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kingsmai&show_icons=true&theme=tokyonight&icon_color=00ff00&include_all_commits=true&custom_title=My Statistics" alt="My Github stats" align="left" />
+![My Stats](https://github-readme-stats.vercel.app/api?username=Kingsmai&show_icons=true&theme=tokyonight&icon_color=00ff00&include_all_commits=true&custom_title=My Statistics)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsmai&layout=compact&theme=tokyonight" alt="Top lang" align="right" />
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsmai&layout=compact&theme=tokyonight)
 
 <!--
 **Kingsmai/Kingsmai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
