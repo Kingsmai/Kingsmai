@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 ## 📫联系方式
 
-[![Email: xsbugh@gmail.com (shields.io)](https://img.shields.io/badge/Email-xsbugh%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto: xsbugh@gmail.com)
+[![Email: xsbugh@gmail.com (shields.io)](https://img.shields.io/badge/Email-xsbugh%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:xsbugh@gmail.com)
 
