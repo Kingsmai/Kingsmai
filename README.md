@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 ## 🔭当前活跃项目
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kingsmai&repo=kingsmai.github.io&theme=tokyonight)](https://github.com/Kingsmai/kingsmai.github.io)
-![License](https://img.shields.io/github/license/kingsmai/kingsmai.github.io?style=for-the-badge) ![Website status](https://img.shields.io/website?style=for-the-badge&up_message=online&url=https%3A%2F%2Fkingsmai.github.io)
+
+![Website status](https://img.shields.io/website?style=for-the-badge&up_message=online&url=https%3A%2F%2Fkingsmai.github.io)
+![License](https://img.shields.io/github/license/kingsmai/kingsmai.github.io?style=for-the-badge)
+---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kingsmai&repo=bug-fac-bugventure-ii&theme=tokyonight)](https://github.com/Kingsmai/bug-fac-bugventure-ii)
 
