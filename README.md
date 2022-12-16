@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kingsmai&repo=kingsmai.github.io&theme=tokyonight)](https://github.com/Kingsmai/kingsmai.github.io)
 
-![Website status](https://img.shields.io/website?style=for-the-badge&up_message=online&url=https%3A%2F%2Fkingsmai.github.io)
+[![Website status](https://img.shields.io/website?style=for-the-badge&up_message=online&url=https%3A%2F%2Fkingsmai.github.io)](https://github.kingsmai.io)
 ![License](https://img.shields.io/github/license/kingsmai/kingsmai.github.io?style=for-the-badge)
 ---
 
