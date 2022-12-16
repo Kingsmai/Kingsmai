@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Kingsmai?style=social)![GitHub Sponsors](https://img.shields.io/github/sponsors/Kingsmai?style=social)![GitHub User's stars](https://img.shields.io/github/stars/Kingsmai?style=social)
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=Kingsmai&show_icons=true&theme=tokyonight&icon_color=00ff00&include_all_commits=true&custom_title="My_Statistics")
+![My Stats](https://github-readme-stats.vercel.app/api?username=Kingsmai&show_icons=true&theme=darcula&include_all_commits=true&hide=prs,issues&custom_title="My_Statistics")
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsmai&layout=compact&theme=tokyonight)
 
@@ -23,9 +23,11 @@ Here are some ideas to get you started:
 
 ## 🔭当前活跃项目
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kingsmai&repo=kingsmai.github.io&theme=tokyonight)](https://github.com/Kingsmai/kingsmai.github.io)
+![License](https://img.shields.io/github/license/kingsmai/kingsmai.github.io?style=for-the-badge) ![Website status](https://img.shields.io/website?style=for-the-badge&up_message=online&url=https%3A%2F%2Fkingsmai.github.io)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kingsmai&repo=bug-fac-bugventure-ii&theme=tokyonight)](https://github.com/Kingsmai/bug-fac-bugventure-ii)
 
 ## 📫联系方式
 
 [![Email: xsbugh@gmail.com (shields.io)](https://img.shields.io/badge/Email-xsbugh%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:xsbugh@gmail.com)
-
