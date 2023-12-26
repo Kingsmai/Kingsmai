@@ -4,7 +4,7 @@
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Kingsmai&show_icons=true&theme=darcula&include_all_commits=true&hide=prs,issues&custom_title="My_Statistics")
 
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsmai&layout=compact&theme=tokyonight)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsmai&layout=compact&theme=tokyonight&exclude_repo=kingsmai.github.io)
 
 <!--
 **Kingsmai/Kingsmai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
