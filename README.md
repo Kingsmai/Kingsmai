@@ -54,6 +54,8 @@ I love programming, but I can't stand algorithms! :curly_loop: bwahahahah~
 
 ### Technologies
 
+![Godot Engine](https://img.shields.io/badge/Godot-000?style=for-the-badge&logo=GodotEngine)
+![Unity 3D](https://img.shields.io/badge/Unity%203D-000?style=for-the-badge&logo=Unity)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=Windows)
 ![MacOS](https://img.shields.io/badge/MacOS-000?style=for-the-badge&logo=MacOS)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux)
