@@ -28,6 +28,8 @@ Hello, I'm Xiaomai, a developer and student based in China. I'm passionate about
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsmai&hide=html&hide_title=true&layout=compact&theme=tokyonight"/>
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kingsmai&theme=tokyonight&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 ## My Journey :rocket:
 
 - **Research Interests**: Artificial Intelligence, NLP, Web3, Blockchain
