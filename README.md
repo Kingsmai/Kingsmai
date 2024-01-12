@@ -77,6 +77,7 @@ I love programming, but I can't stand algorithms! :curly_loop: bwahahahah~
 ### Tools
 
 ![Blender](https://img.shields.io/badge/Blender-000?style=for-the-badge&logo=Blender)
+![Aseprite](https://img.shields.io/badge/Aseprite-000?style=for-the-badge&logo=Aseprite)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=Adobe%20Photoshop)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-000?style=for-the-badge&logo=Adobe%20Illustrator)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000?style=for-the-badge&logo=Visual%20Studio)
