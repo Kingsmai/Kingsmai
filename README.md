@@ -45,12 +45,17 @@ I love programming, but I can't stand algorithms! :curly_loop: bwahahahah~
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-000?logo=Python&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=JavaScript&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP)
 ![C](https://img.shields.io/badge/C-000?logo=C&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?logo=C%2B%2B&style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-000?logo=C%23&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-000?logo=Java&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=MySQL)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=SQLite)
+![Go Lang](https://img.shields.io/badge/Go%20Lang-000?style=for-the-badge&logo=Go)
 
 ### Technologies
 
@@ -61,10 +66,35 @@ I love programming, but I can't stand algorithms! :curly_loop: bwahahahah~
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=Ubuntu)
 ![NodeJS](https://img.shields.io/badge/NodeJS-000?style=for-the-badge&logo=Node.JS)
-![Vue](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=Vue)
+![Vue](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=Vue.js)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=SpringBoot)
 ![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=Redis)
 ![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=Spring)
+![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=Arduino)
+![Uni App](https://img.shields.io/badge/UniApp-000?style=for-the-badge&logo=UniApp)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=Markdown)
+
+### Tools
+
+![Blender](https://img.shields.io/badge/Blender-000?style=for-the-badge&logo=Blender)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=Adobe%20Photoshop)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-000?style=for-the-badge&logo=Adobe%20Illustrator)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000?style=for-the-badge&logo=Visual%20Studio)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000?style=for-the-badge&logo=Visual%20Studio%20Code)
+![IntelliJ IDEA](https://img.shields.io/badge/Idea-000?style=for-the-badge&logo=IntelliJ%20IDEA)
+![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=PyCharm)
+![Rider](https://img.shields.io/badge/Rider-000?style=for-the-badge&logo=Rider)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000?style=for-the-badge&logo=PhpStorm)
+![WebStorm](https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=WebStorm)
+![DataGrip](https://img.shields.io/badge/DataGrip-000?style=for-the-badge&logo=DataGrip)
+![Tiddly Wiki](https://img.shields.io/badge/Tiddly%20Wiki-000?style=for-the-badge&logo=Wikipedia)
+![Hexo](https://img.shields.io/badge/Hexo-000?style=for-the-badge&logo=Hexo)
+![Obsidian](https://img.shields.io/badge/Obsidian-000?style=for-the-badge&logo=Obsidian)
+
+### Social Media
+
+![BiliBili](https://img.shields.io/badge/BiliBili-000?style=for-the-badge&logo=BiliBili)
+![ZhiHu](https://img.shields.io/badge/ZhiHu-000?style=for-the-badge&logo=ZhiHu)
 
 ### Blockchain Development
 
