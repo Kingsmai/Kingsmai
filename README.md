@@ -14,7 +14,7 @@ Here are some ideas to get you started:
   -->
 You are my # ![Visitor Count](https://profile-counter.glitch.me/{Kingsmai}/count.svg) Visitors
 
-# Xiaomai - Game Developer :video_game:
+# Xiaomai - Game Developer :video_game: Blockchain Developer ⛓️:
 
 Hello, I'm Xiaomai, a developer and student based in China. I'm passionate about programming and gaming, and my ultimate goal is to become a Game Developer. Currently, I'm working at a Web3 company, where I'm learning and growing every day. Stay healthy and stay safe! Have a nice day. :smile:
 
