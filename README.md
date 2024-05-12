@@ -25,7 +25,7 @@ Hello, I'm Xiaomai, a developer and student based in China. I'm passionate about
 ## GitHub Stats :chart_with_upwards_trend:
 
 <a href="https://kingsmai.github.io" style="text-decoration: none;">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Kingsmai&hide_title=true&show_icons=true&count_private=true&theme=tokyonight"/>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Kingsmai&hide_title=true&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true"/>
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsmai&hide=html&hide_title=true&layout=compact&theme=tokyonight"/>
 </a>
 
